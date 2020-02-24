@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.client();
 
-"client.login("NjgxNDE3MzgyMDQ4NDMyMTg2.XlPFdQ.9WWZSzCv7uqm95LqfedVBnsowhs);
+client.login("NjgxNDE3MzgyMDQ4NDMyMTg2.XlPFdQ.9WWZSzCv7uqm95LqfedVBnsowhs");
 
 client.om('ready', () => {
     console.log("The bot is logged in!");
